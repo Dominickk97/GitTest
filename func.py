@@ -3,3 +3,5 @@ def factorial(x):
     for i in range(x):
         result = result * (i + 1)
     return result
+def test(x):
+    return x
